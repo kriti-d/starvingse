@@ -1,4 +1,8 @@
 Broker|www.github.com/snyk/broker
+Github-Broker|https://github.com/snyk/broker#githubcom
+Github-Enterprise-Broker|https://github.com/snyk/broker#github-enterprise
+Bitbucker-Server-Broker|https://github.com/snyk/broker#bitbucket-server
 Gitlab-Broker|https://github.com/snyk/broker#gitlab
+Jira-Broker|https://github.com/snyk/broker#jira
 Gitlab-Sample|https://github.com/snyk-labs/snyk-cicd-integration-examples/tree/master/GitLabCICD
 IDE|https://snyk.io/ide-plugins/
